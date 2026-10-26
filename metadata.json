@@ -1,0 +1,6 @@
+{
+  "name": "BillCraft - Smart Invoice & Bill Calculator",
+  "description": "Create professional bills, itemize prices, compute taxes, discounts, tips, and calculate final payment with live printable receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
